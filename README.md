@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou o Henrique Dantas 👋
 
-<!--
-**HenriqueDantasGuerra/HenriqueDantasGuerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenharia de Produção (PUC-Rio), formação em Dez/2026.
+Foco em **Análise de Dados e BI**, com base em **finanças e investimentos**.
 
-Here are some ideas to get you started:
+## Ferramentas
+Power BI · Excel · SQL · Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+Em construção. Os primeiros projetos serão publicados aqui nas próximas semanas.
+
+## Contato
+[LinkedIn](https://www.linkedin.com/in/henrique-dantas-04477a220) · dantasguerrah@gmail.com
